@@ -37,18 +37,11 @@ Web app de gerenciamento de serviços.
 
 ---
 
-## 📊 GitHub Stats
-
-![Ramon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramonscripts&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramonscripts&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
-
----
 
 ## 📫 Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-ramonscripts-181717?style=for-the-badge&logo=github)](https://github.com/ramonscripts)
-
+[![Email] ramon.c.q@hotmail.com
 ---
 
 *"Aprendendo e postando minha evolução ao longo do tempo."*
