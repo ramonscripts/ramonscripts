@@ -41,7 +41,6 @@ Web app de gerenciamento de serviços.
 ## 📫 Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-ramonscripts-181717?style=for-the-badge&logo=github)](https://github.com/ramonscripts)
-[![Email] ramon.c.q@hotmail.com
 ---
 
 *"Aprendendo e postando minha evolução ao longo do tempo."*
